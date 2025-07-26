@@ -10,7 +10,8 @@ Congming AI is an experimental, modular, symbolic multi-agent artificial intelli
 - The project is under active development and experimentation.
 - The current focus is on integrating LLM (Large Language Model) processing for code rewriting, web queries, and reflective reasoning.
 - Some agents are placeholders or partially implemented, and new features/agents are planned.
-
+- I wrote a research paper regarding this. Please check if needed. https://www.academia.edu/143084231/Design_of_a_Multi_Agent_AI_Architecture_with_Centralized_Feedback_control_and_Modular_Intelligence_Coordination 
+- (for some reason, the paper is only opening for people who have registered account on academia. I will try to fix it soon.)
 ---
 
 ## Architecture Overview
