@@ -1,6 +1,6 @@
 # Congming AI
 
-Congming AI is an experimental, modular, symbolic multi-agent artificial intelligence framework. It is designed to simulate advanced cognitive processes, self-reflection, and self-improvement using a collection of specialized agents that communicate via a central blackboard architecture.
+Congming AI is an experimental, modular, neuro- symbolic,  multi-agent artificial intelligence framework. It is designed to simulate advanced cognitive processes, self-reflection, and self-improvement using a collection of specialized agents that communicate via a central blackboard architecture.
 
 ---
 
